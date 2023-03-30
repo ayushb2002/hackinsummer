@@ -17,13 +17,6 @@
   /*animation-name: hackathon_name;*/
 }
 
-.devfolio-btn
-{
-  position: relative;
-  top: 55vh;
-  z-index: 200;
-}
-
 /*@keyframes hackathon_name {
   0% {
     transform: translateY(-100px) !important;
