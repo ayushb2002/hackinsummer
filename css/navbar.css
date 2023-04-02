@@ -18,7 +18,7 @@
 }
 
 .navbar {
-    background: whitesmoke;
+    background: transparent;
     z-index: 100;
     position: fixed;
     right: 0;
