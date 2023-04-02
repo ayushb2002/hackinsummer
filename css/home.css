@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:100");
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
+
 #app {
   height: 100vh;
   width: 100%;
@@ -389,6 +390,60 @@ pointer-events: none;
 .bird-container--four {
   animation-duration: 16s;
   animation-delay: 10.25s;
+}
+
+#more {display: none;}
+#more2 {display: none;}
+#more3 {display: none;}
+#more4 {display: none;}
+#more5 {display: none;}
+.card-body{
+  overflow-y: auto;
+}
+
+#myBtn{
+  border: none;
+  color: blue;
+}
+
+#myBtn:hover{
+  text-decoration: underline;
+}
+
+#myBtn2{
+  border: none;
+  color: blue;
+}
+
+#myBtn2:hover{
+  text-decoration: underline;
+}
+
+#myBtn3{
+  border: none;
+  color: blue;
+}
+
+#myBtn3:hover{
+  text-decoration: underline;
+}
+
+#myBtn4{
+  border: none;
+  color: blue;
+}
+
+#myBtn4:hover{
+  text-decoration: underline;
+}
+
+#myBtn5{
+  border: none;
+  color: blue;
+}
+
+#myBtn5:hover{
+  text-decoration: underline;
 }
 
 @keyframes fly-cycle {
