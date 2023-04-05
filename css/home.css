@@ -446,6 +446,12 @@ pointer-events: none;
   text-decoration: underline;
 }
 
+.center-this{
+  text-align: center;
+  margin: auto;
+  height: 50px;
+}
+
 @keyframes fly-cycle {
   100% {
       background-position: -900px 0;
