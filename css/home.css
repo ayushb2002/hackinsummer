@@ -397,6 +397,7 @@ pointer-events: none;
 #more3 {display: none;}
 #more4 {display: none;}
 #more5 {display: none;}
+#more6 {display: none;}
 .card-body{
   overflow-y: auto;
 }
@@ -443,6 +444,15 @@ pointer-events: none;
 }
 
 #myBtn5:hover{
+  text-decoration: underline;
+}
+
+#myBtn6{
+  border: none;
+  color: blue;
+}
+
+#myBtn6:hover{
   text-decoration: underline;
 }
 
